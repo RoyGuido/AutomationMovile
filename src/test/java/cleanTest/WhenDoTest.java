@@ -51,12 +51,6 @@ public class WhenDoTest {
         createTaskScreen.descriptionTextBox.SetValue("this is a description");
         createTaskScreen.saveButton.click();
         Assertions.assertEquals(title,mainScreen.nameTaskLabel.getText(),"ERROR! task was not created");
-        String titleU="CLEAN UPDATE";
-        mainScreen.taskItem.click();
-        updateTaskScreen.titleTextBox.SetValue(titleU);
-        updateTaskScreen.descriptionTextBox.SetValue("this is a description update");
-        updateTaskScreen.updateButton.click();
-        Assertions.assertEquals(titleU,mainScreen.nameTaskLabel.getText(),"ERROR! task was not created");
         mainScreen.taskItem.click();
         deleteTaskScreen.deleteButton.click();
         deleteTaskScreen.confirmDeleteButton.click();
