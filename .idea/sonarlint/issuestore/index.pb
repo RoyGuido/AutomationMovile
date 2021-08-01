@@ -9,8 +9,6 @@ U
 -src/test/java/factoryDevices/WindowPhone.java,5\3\531a092a6d0109efccb3002a81168d105e0fd4df
 X
 (src/test/java/basicTest/BasicAppium.java,5\c\5c50da5fc16e3a045b2aa00cc56b8e08c7debe20
-W
-'src/test/java/controlAppiun/Button.java,b\7\b73c871c6693e90fe4fb168605c139248e3bc274
 V
 &src/test/java/controlAppiun/Label.java,3\3\3345ef25d8b9ecfbfe6c0c406b4c11e0469b4ef8
 X
@@ -23,5 +21,3 @@ X
 (src/test/java/cleanTest/ContactTest.java,7\f\7f477bd9677d147c5d73e70e8cca1ef2073abbde
 ^
 .src/test/java/factoryDevices/BrowserStack.java,2\1\211c97e60eaad51e2ea8ae530b12acf807f97106
-R
-"src/test/java/session/Session.java,3\7\37a9ae9862e11ec6449ac210ec0579d650e28ec9
