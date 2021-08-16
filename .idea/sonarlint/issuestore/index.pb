@@ -17,7 +17,7 @@ Y
 )src/test/java/factoryDevices/IDevice.java,f\c\fc006374162cd139fe80a42b86a0ce88a0a743fb
 _
 /src/test/java/factoryDevices/FactoryDevice.java,2\f\2fe12b0112efe9069ea18f61e6e82b1417c3a309
-X
-(src/test/java/cleanTest/ContactTest.java,7\f\7f477bd9677d147c5d73e70e8cca1ef2073abbde
 ^
 .src/test/java/factoryDevices/BrowserStack.java,2\1\211c97e60eaad51e2ea8ae530b12acf807f97106
+<
+build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35

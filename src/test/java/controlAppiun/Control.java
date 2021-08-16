@@ -29,6 +29,18 @@ public class Control {
         return this.control.getText();
     }
 
+    public String getAttribute(String valor) throws MalformedURLException {
+        try {
+            this.findControl();
+            return this.control.getAttribute(valor);
+        } catch (
+            Exception e
+        )
+        {
+            return "No se encontro nada";
+        }
+    }
+
     public WebElement getControl() throws MalformedURLException {
         this.findControl();
         return control;
